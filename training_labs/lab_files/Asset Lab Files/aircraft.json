@@ -1,0 +1,51 @@
+[
+   {
+       "uri": "/asset/aircraft",
+       "name": "GE-Aircraft"
+   },
+   {
+       "uri": "/asset/leftWing",
+       "name": "leftWing",
+       "parent": "/asset/aircraft"
+   },
+   {
+       "uri": "/asset/leftSpoiler",
+       "name": "leftSpoiler",
+       "parent": "/asset/leftWing"
+   },
+   {
+       "uri": "/asset/rightWing",
+       "name": "rightWing",
+       "parent": "/asset/aircraft"
+   },
+   {
+       "uri": "/asset/rightSpoiler",
+       "name": "rightSpoiler",
+       "parent": "/asset/rightWing"
+   },
+   {
+       "uri": "/asset/aircraftEngine",
+       "name": "aircraftEngine",
+       "parent": "/asset/aircraft"
+   },
+   {
+       "uri": "/asset/aircraftMotor",
+       "name": "aircraftMotor",
+       "parent": "/asset/aircraftEngine"
+   },
+   {
+       "uri": "/asset/crankShaft",
+       "name": "crankShaft",
+       "parent": "/asset/aircraftMotor"
+   },
+   {
+       "uri": "/asset/cylinder",
+       "name": "cylinder",
+       "parent": "/asset/crankShaft"
+   },
+   {
+       "uri": "/asset/piston",
+       "name": "piston",
+       "parent": "/asset/cylinder"
+   }
+]

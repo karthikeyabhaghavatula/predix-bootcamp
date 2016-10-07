@@ -1,0 +1,6 @@
+/predix/Documents/PredixApps/training_labs/machine/predixmachinesdk-16.2.0/samples/sample-cloud-apps/sample/httpdata/src/main/java/com/ge/predixmachine/data/http/HttpDataApplication.java
+/predix/Documents/PredixApps/training_labs/machine/predixmachinesdk-16.2.0/samples/sample-cloud-apps/sample/httpdata/src/main/java/com/ge/predixmachine/data/http/controller/HttpDataDao.java
+/predix/Documents/PredixApps/training_labs/machine/predixmachinesdk-16.2.0/samples/sample-cloud-apps/sample/httpdata/src/main/java/com/ge/predixmachine/data/http/model/HttpData.java
+/predix/Documents/PredixApps/training_labs/machine/predixmachinesdk-16.2.0/samples/sample-cloud-apps/sample/httpdata/src/main/java/com/ge/predixmachine/data/http/HttpDataResources.java
+/predix/Documents/PredixApps/training_labs/machine/predixmachinesdk-16.2.0/samples/sample-cloud-apps/sample/httpdata/src/main/java/com/ge/predixmachine/data/http/controller/HttpDataController.java
+/predix/Documents/PredixApps/training_labs/machine/predixmachinesdk-16.2.0/samples/sample-cloud-apps/sample/httpdata/src/main/java/com/ge/predixmachine/data/http/security/HttpDataSecurityConfig.java

@@ -1,0 +1,64 @@
+
+
+   
+
+
+    [
+        {
+            "uri": "/customer/burlington-northern-santa-fe",
+            "name": "Burlington Northern Santa Fe",
+            "service_contract_start_date": "03/24/2010",
+            "service_contract_expire_date": "09/24/2015",
+            "hqLatLng":
+            {
+                "lat": 37.946718,
+                "lng": -122.366691
+            }
+        },
+        {
+            "uri": "/customer/canadian-national",
+            "name": "Canadian National",
+            "service_contract_start_date": "02/01/2015",
+            "service_contract_expire_date": "02/01/2020",
+            "hqLatLng":
+            {
+                "lat": 45.499377,
+                "lng": -73.566709
+            }
+        },
+        {
+            "uri": "/customer/csx",
+            "name": "CSX",
+            "service_contract_start_date": "10/20/2013",
+            "service_contract_expire_date": "10/20/2015",
+            "hqLatLng":
+            {
+                "lat": 30.324881,
+                "lng": -81.664173
+            }
+        },
+        {
+            "uri": "/customer/norfolk-southern",
+            "name": "Norfolk Southern",
+            "service_contract_start_date": "05/01/2012",
+            "service_contract_expire_date": "05/01/2017",
+            "hqLatLng":
+            {
+                "lat": 36.845167,
+                "lng": -76.288143
+            }
+        },
+        {
+            "uri": "/customer/union-pacific",
+            "name": "Union Pacific",
+            "service_contract_start_date": "01/15/2015",
+            "service_contract_expire_date": "12/31/2016",
+            "hqLatLng":
+            {
+                "lat": 38.578775,
+                "lng": -121.495081
+            }
+        }
+    ]
+
+

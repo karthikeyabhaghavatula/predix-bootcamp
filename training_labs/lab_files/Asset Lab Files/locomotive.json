@@ -1,0 +1,1393 @@
+[
+  {
+    "uri": "/locomotive/-0-Chandra2",
+    "type": "Diesel-electric",
+    "model": "Chan-999",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-ArchS",
+    "type": "Diesel-electric",
+    "model": "ArchS-999",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-Chandra",
+    "type": "Diesel-electric",
+    "model": "Chan-999",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-Mahesh123",
+    "type": "Diesel-electric",
+    "model": "Mahesh123:991",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-nanda",
+    "type": "Diesel-electric",
+    "model": "Amruth:003",
+    "serial_no": "003",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v9-1",
+    "hqLatLng": {
+      "lat": 12.123,
+      "lng": 115.234
+    }
+  },
+  {
+    "uri": "/locomotive/-1-nisha",
+    "type": "Diesel-electric",
+    "model": "Amruth:003",
+    "serial_no": "003",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v9-1",
+    "hqLatLng": {
+      "lat": 12.123,
+      "lng": 115.234
+    }
+  },
+  {
+    "uri": "/locomotive/-1-Purna",
+    "type": "Diesel-electric",
+    "model": "Purna:528",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-SN",
+    "type": "Diesel-electric",
+    "model": "SS:528",
+    "serial_no": "001010",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Richard Kwong",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-Sreeram",
+    "type": "Diesel-electric",
+    "model": "Sreeram:9",
+    "serial_no": "xj999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-Vijai",
+    "type": "Diesel-electric",
+    "model": "VJ007:528",
+    "serial_no": "007",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-Vinod",
+    "type": "Diesel-electric",
+    "model": "Vinod:123456",
+    "serial_no": "123456",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-1-VJ",
+    "type": "Diesel-electric",
+    "model": "VJ:777",
+    "serial_no": "777",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-10-Prsanth",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-78-jinesh-testttt",
+    "type": "Diesel-electric",
+    "model": "Flyy",
+    "serial_no": "0807",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "address": "manufacturer/prakeshbld",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.25
+    }
+  },
+  {
+    "uri": "/locomotive/-deeksha",
+    "type": "Diesel-electric",
+    "model": "ArchS-9754",
+    "serial_no": "9754",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-deeksha-ArchS",
+    "type": "Diesel-electric",
+    "model": "ArchS-9754",
+    "serial_no": "9754",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-fabiobertellotti",
+    "type": "Diesel-electric",
+    "model": "MT03",
+    "serial_no": "88888888",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/bertellotti",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-milu",
+    "type": "Diesel-electric",
+    "model": "milu-888",
+    "serial_no": "888",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/-test",
+    "type": "Diesel-electric",
+    "model": "ArchS-999",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/0000SriniB111",
+    "type": "Diesel-electric",
+    "model": "Srini",
+    "serial_no": "22222",
+    "custom_attrib": "cstom attrib value",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/student115",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/000PhaniK",
+    "type": "Diesel-electric",
+    "model": "Exotic",
+    "serial_no": "1001",
+    "custom_attrib": "cstom attrib value",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/PhaniLimited",
+    "engine": "/engine/student117",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/00Boppana__",
+    "type": "Diesel-electric",
+    "model": "Exotic",
+    "serial_no": "4888",
+    "custom_attrib": "cstom attrib value",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/student115",
+    "engine": "/engine/student115",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/0student108",
+    "type": "Diesel-electric",
+    "model": "ZZZ:123",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/student115",
+    "engine": "/engine/student115",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/0student115",
+    "type": "Diesel-electric",
+    "model": "ABC:123",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/student115",
+    "engine": "/engine/student115",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/1",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/1-PP",
+    "type": "Diesel-electric-PP",
+    "model": "PP:528",
+    "serial_no": "006",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-3",
+    "manufacturer": "/manufacturer/cummins",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/1-Prsanth",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/1-Rao",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "002",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/1-Raomytest",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier1": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1"
+  },
+  {
+    "uri": "/locomotive/1-Raomytest1",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier1": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble123",
+    "engine": "/engine/v12-1"
+  },
+  {
+    "uri": "/locomotive/1-Raomytest2",
+    "type1": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier1": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble123",
+    "engine": "/engine/v12-1"
+  },
+  {
+    "uri": "/locomotive/10",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0010",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-4",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-5",
+    "hqLatLng": {
+      "lat": 47.941049,
+      "lng": -100.126484
+    }
+  },
+  {
+    "uri": "/locomotive/102",
+    "type": "Diesel-electric",
+    "model": "ABC:102",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/11",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0011",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-4",
+    "manufacturer": "/manufacturer/GE1",
+    "engine": "/engine/v12-6",
+    "hqLatLng": {
+      "lat": 32.7086,
+      "lng": -108.190375
+    }
+  },
+  {
+    "uri": "/locomotive/1119",
+    "type": "Diesel-electric",
+    "model": "RAUL:528",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/Proctor & Gamble",
+    "engine": "/engine/v12-1",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/12",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0012",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-4",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-6",
+    "hqLatLng": {
+      "lat": 34.099394,
+      "lng": -90.261741
+    }
+  },
+  {
+    "uri": "/locomotive/13",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0013",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-5",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-7",
+    "hqLatLng": {
+      "lat": 36.050366,
+      "lng": -91.340363
+    }
+  },
+  {
+    "uri": "/locomotive/14",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0014",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-5",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-7",
+    "hqLatLng": {
+      "lat": 35.931077,
+      "lng": -79.643374
+    }
+  },
+  {
+    "uri": "/locomotive/15",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0015",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-5",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-8",
+    "hqLatLng": {
+      "lat": 45.314087,
+      "lng": -90.969283
+    }
+  },
+  {
+    "uri": "/locomotive/16",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0016",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-1",
+    "hqLatLng": {
+      "lat": 47.781463,
+      "lng": -116.940009
+    }
+  },
+  {
+    "uri": "/locomotive/17",
+    "type": "",
+    "model": "B40-8",
+    "serial_no": "0017",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-8",
+    "hqLatLng": {
+      "lat": 32.863603,
+      "lng": -97.327141
+    }
+  },
+  {
+    "uri": "/locomotive/18",
+    "type": "Diesel-electric",
+    "model": "MP15AC",
+    "serial_no": "0018",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-1",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/645",
+    "hqLatLng": {
+      "lat": 42.090136,
+      "lng": -102.875767
+    }
+  },
+  {
+    "uri": "/locomotive/19",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0019",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-1",
+    "hqLatLng": {
+      "lat": 32.147267,
+      "lng": -83.87744
+    }
+  },
+  {
+    "uri": "/locomotive/1Test",
+    "type": "Computer",
+    "model": "Uma:901",
+    "serial_no": "901",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-901",
+    "manufacturer": "/manufacturer/cummins1",
+    "engine": "/engine/v1-0",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/2",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "002",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-1",
+    "hqLatLng": {
+      "lat": 47.655492,
+      "lng": -117.427025
+    }
+  },
+  {
+    "uri": "/locomotive/2-bijesh",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "1000",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-1",
+    "hqLatLng": {
+      "lat": 47.655492,
+      "lng": -117.427025
+    }
+  },
+  {
+    "uri": "/locomotive/20",
+    "type": "Diesel-electric",
+    "model": "ES44DC",
+    "serial_no": "0020",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-9",
+    "hqLatLng": {
+      "lat": 38.191536,
+      "lng": -85.472672
+    }
+  },
+  {
+    "uri": "/locomotive/21",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0021",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-1",
+    "hqLatLng": {
+      "lat": 43.49188,
+      "lng": -122.944105
+    }
+  },
+  {
+    "uri": "/locomotive/212419175",
+    "type": "Diesel-electric",
+    "model": "T Ford",
+    "serial_no": "212419175",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/student115",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/212444911",
+    "type": "Diesel-electric",
+    "model": "ABC:123",
+    "serial_no": "001",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/212444911",
+    "engine": "/engine/212444911",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/22",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0022",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-2",
+    "hqLatLng": {
+      "lat": 45.96556,
+      "lng": -116.989515
+    }
+  },
+  {
+    "uri": "/locomotive/23",
+    "type": "Diesel-electric",
+    "model": "ES44DC",
+    "serial_no": "0023",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-10",
+    "hqLatLng": {
+      "lat": 41.788715,
+      "lng": -114.601854
+    }
+  },
+  {
+    "uri": "/locomotive/24",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0024",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-2",
+    "hqLatLng": {
+      "lat": 38.097843,
+      "lng": -118.161825
+    }
+  },
+  {
+    "uri": "/locomotive/25",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0025",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-3",
+    "hqLatLng": {
+      "lat": 38.12204,
+      "lng": -106.260561
+    }
+  },
+  {
+    "uri": "/locomotive/26",
+    "type": "Diesel-electric",
+    "model": "ES44DC",
+    "serial_no": "0026",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-2",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v12-11",
+    "hqLatLng": {
+      "lat": 36.628722,
+      "lng": -103.908348
+    }
+  },
+  {
+    "uri": "/locomotive/27",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0027",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-3",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-3",
+    "hqLatLng": {
+      "lat": 33.544224,
+      "lng": -104.506977
+    }
+  },
+  {
+    "uri": "/locomotive/28",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0028",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-3",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-4",
+    "hqLatLng": {
+      "lat": 36.87125,
+      "lng": -102.557858
+    }
+  },
+  {
+    "uri": "/locomotive/29",
+    "type": "Diesel-electric",
+    "model": "ES44DC",
+    "serial_no": "0029",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-3",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-12",
+    "hqLatLng": {
+      "lat": 34.708707,
+      "lng": -97.179306
+    }
+  },
+  {
+    "uri": "/locomotive/2Test",
+    "type": "KeyBoard",
+    "model": "Uma:902",
+    "serial_no": "999",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-901",
+    "manufacturer": "/manufacturer/cummins",
+    "engine": "/engine/v1-0",
+    "hqLatLng": {
+      "lat": 33.914605,
+      "lng": -117.253374
+    }
+  },
+  {
+    "uri": "/locomotive/3",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "003",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-2",
+    "hqLatLng": {
+      "lat": 46.860395,
+      "lng": -109.473494
+    }
+  },
+  {
+    "uri": "/locomotive/30",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0030",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-3",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-4",
+    "hqLatLng": {
+      "lat": 41.103915,
+      "lng": -78.286601
+    }
+  },
+  {
+    "uri": "/locomotive/31",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0031",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-4",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-5",
+    "hqLatLng": {
+      "lat": 31.351436,
+      "lng": -105.258803
+    }
+  },
+  {
+    "uri": "/locomotive/32",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0032",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-4",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-5",
+    "hqLatLng": {
+      "lat": 30.062855,
+      "lng": -102.111381
+    }
+  },
+  {
+    "uri": "/locomotive/33",
+    "type": "Diesel-electric",
+    "model": "ES44DC",
+    "serial_no": "0033",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-4",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-13",
+    "hqLatLng": {
+      "lat": 26.634179,
+      "lng": -98.514328
+    }
+  },
+  {
+    "uri": "/locomotive/34",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0034",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-4",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-6",
+    "hqLatLng": {
+      "lat": 29.93051,
+      "lng": -95.969945
+    }
+  },
+  {
+    "uri": "/locomotive/35",
+    "type": "Diesel-electric",
+    "model": "ES44DC",
+    "serial_no": "0035",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-5",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-14",
+    "hqLatLng": {
+      "lat": 44.940593,
+      "lng": -110.825888
+    }
+  },
+  {
+    "uri": "/locomotive/36",
+    "type": "Diesel-electric",
+    "model": "SD80MAC",
+    "serial_no": "0036",
+    "emission_tier": "0+",
+    "fleet": "/fleet/bnsf-5",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/v20-7",
+    "hqLatLng": {
+      "lat": 41.307371,
+      "lng": -104.574386
+    }
+  },
+  {
+    "uri": "/locomotive/37",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0037",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-15",
+    "hqLatLng": {
+      "lat": 43.488604,
+      "lng": -116.913932
+    }
+  },
+  {
+    "uri": "/locomotive/38",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0038",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-1",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-9",
+    "hqLatLng": {
+      "lat": 40.26462,
+      "lng": -74.496063
+    }
+  },
+  {
+    "uri": "/locomotive/39",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0039",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-16",
+    "hqLatLng": {
+      "lat": 43.650927,
+      "lng": -74.570743
+    }
+  },
+  {
+    "uri": "/locomotive/4",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "004",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-2",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-2",
+    "hqLatLng": {
+      "lat": 45.784314,
+      "lng": -108.500856
+    }
+  },
+  {
+    "uri": "/locomotive/40",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0040",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-2",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-10",
+    "hqLatLng": {
+      "lat": 41.394707,
+      "lng": -83.905661
+    }
+  },
+  {
+    "uri": "/locomotive/41",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0041",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-17",
+    "hqLatLng": {
+      "lat": 45.40759,
+      "lng": -103.471649
+    }
+  },
+  {
+    "uri": "/locomotive/42",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0042",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-2",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-11",
+    "hqLatLng": {
+      "lat": 42.284877,
+      "lng": -99.513644
+    }
+  },
+  {
+    "uri": "/locomotive/43",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0043",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-18",
+    "hqLatLng": {
+      "lat": 39.173252,
+      "lng": -90.552123
+    }
+  },
+  {
+    "uri": "/locomotive/44",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0044",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-2",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-12",
+    "hqLatLng": {
+      "lat": 40.775543,
+      "lng": -123.336355
+    }
+  },
+  {
+    "uri": "/locomotive/45",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "0045",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-3",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-19",
+    "hqLatLng": {
+      "lat": 41.394707,
+      "lng": -119.079633
+    }
+  },
+  {
+    "uri": "/locomotive/46",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "0046",
+    "emission_tier": "0+",
+    "fleet": "/fleet/csx-3",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-13",
+    "hqLatLng": {
+      "lat": 39.921845,
+      "lng": -111.985095
+    }
+  },
+  {
+    "uri": "/locomotive/47",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0047",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-2",
+    "hqLatLng": {
+      "lat": 41.674215,
+      "lng": -110.118111
+    }
+  },
+  {
+    "uri": "/locomotive/48",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0048",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-3",
+    "hqLatLng": {
+      "lat": 43.829065,
+      "lng": -108.038521
+    }
+  },
+  {
+    "uri": "/locomotive/49",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0049",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-4",
+    "hqLatLng": {
+      "lat": 48.730575,
+      "lng": -121.358846
+    }
+  },
+  {
+    "uri": "/locomotive/5",
+    "type": "Diesel-electric",
+    "model": "ES44AC",
+    "serial_no": "005",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v12-3",
+    "hqLatLng": {
+      "lat": 35.022757,
+      "lng": -83.009365
+    }
+  },
+  {
+    "uri": "/locomotive/50",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0050",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-5",
+    "hqLatLng": {
+      "lat": 47.988616,
+      "lng": -117.610012
+    }
+  },
+  {
+    "uri": "/locomotive/51",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0051",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-6",
+    "hqLatLng": {
+      "lat": 46.141609,
+      "lng": -120.321935
+    }
+  },
+  {
+    "uri": "/locomotive/52",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0052",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-1",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-7",
+    "hqLatLng": {
+      "lat": 44.629206,
+      "lng": -120.960034
+    }
+  },
+  {
+    "uri": "/locomotive/53",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0053",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-8",
+    "hqLatLng": {
+      "lat": 48.572493,
+      "lng": -114.57904
+    }
+  },
+  {
+    "uri": "/locomotive/54",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0054",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-9",
+    "hqLatLng": {
+      "lat": 48.677936,
+      "lng": -109.873057
+    }
+  },
+  {
+    "uri": "/locomotive/55",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0055",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-10",
+    "hqLatLng": {
+      "lat": 48.572493,
+      "lng": -104.927787
+    }
+  },
+  {
+    "uri": "/locomotive/56",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0056",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-11",
+    "hqLatLng": {
+      "lat": 46.746176,
+      "lng": -104.608737
+    }
+  },
+  {
+    "uri": "/locomotive/57",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0057",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-12",
+    "hqLatLng": {
+      "lat": 41.721683,
+      "lng": -109.952819
+    }
+  },
+  {
+    "uri": "/locomotive/58",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0058",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-13",
+    "hqLatLng": {
+      "lat": 43.771496,
+      "lng": -107.240897
+    }
+  },
+  {
+    "uri": "/locomotive/59",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0059",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-14",
+    "hqLatLng": {
+      "lat": 43.424917,
+      "lng": -93.681285
+    }
+  },
+  {
+    "uri": "/locomotive/6",
+    "type": "Diesel-electric",
+    "model": "SD70ACe",
+    "serial_no": "006",
+    "emission_tier": "0+",
+    "fleet": "/fleet/up-2",
+    "manufacturer": "/manufacturer/electro-motive-diesel",
+    "engine": "/engine/v16-2-3",
+    "hqLatLng": {
+      "lat": 33.120118,
+      "lng": -81.563755
+    }
+  },
+  {
+    "uri": "/locomotive/60",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0060",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-15",
+    "hqLatLng": {
+      "lat": 42.018661,
+      "lng": -95.994395
+    }
+  },
+  {
+    "uri": "/locomotive/61",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0061",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-16",
+    "hqLatLng": {
+      "lat": 33.191119,
+      "lng": -100.700378
+    }
+  },
+  {
+    "uri": "/locomotive/62",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0062",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-17",
+    "hqLatLng": {
+      "lat": 39.481317,
+      "lng": -80.440722
+    }
+  },
+  {
+    "uri": "/locomotive/63",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0063",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-18",
+    "hqLatLng": {
+      "lat": 42.211153,
+      "lng": -71.617224
+    }
+  },
+  {
+    "uri": "/locomotive/64",
+    "type": "Diesel-electric",
+    "model": "C40-8W ",
+    "serial_no": "0064",
+    "emission_tier": "0+",
+    "fleet": "/fleet/ns-2",
+    "manufacturer": "/manufacturer/GE",
+    "engine": "/engine/v16-19",
+    "hqLatLng": {
+      "lat": 44.171027,
+      "lng": -69.992906
+    }
+  },
+  {
+    "uri": "/locomotive/65",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0065",
+    "emission_tier": "0+",
+    "fleet": "/fleet/cn-1",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-6",
+    "hqLatLng": {
+      "lat": 50.750961,
+      "lng": -111.035917
+    }
+  },
+  {
+    "uri": "/locomotive/66",
+    "type": "Diesel-electric",
+    "model": "3GS21B",
+    "serial_no": "0066",
+    "emission_tier": "0+",
+    "fleet": "/fleet/cn-1",
+    "manufacturer": "/manufacturer/national-railway-equipment",
+    "engine": "/engine/QSK19-7",
+    "hqLatLng": {
+      "lat": 54.165178,
+      "lng": -125.631473
+    }
+  }
+]

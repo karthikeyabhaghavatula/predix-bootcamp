@@ -1,0 +1,11 @@
+---
+applications:
+- name: karthik-httpdata
+  memory: 1G
+  instance: 1
+  path: ./target/predixmachine-http-data-16.1.0-SNAPSHOT.jar
+services:
+  - karthik-postgres
+  - karthik-uaa
+env:
+    SPRING_PROFILES_ACTIVE: cloud
